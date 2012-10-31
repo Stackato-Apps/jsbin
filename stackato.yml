@@ -1,0 +1,9 @@
+name: jsbin
+
+framework:
+  type: node
+
+memory: 128MB
+
+processes:
+  web: $HOME/bin/jsbin
