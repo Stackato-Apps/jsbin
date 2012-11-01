@@ -25,6 +25,13 @@ $ jsbin
 
 Then open your browser to [http://localhost:3000](http://localhost:3000) and you have a fully working version of JS Bin running locally.
 
+## Deploying to Stackato
+
+From the app directory simply run:
+
+```
+$ stackato push -n
+```
 
 ## What can JS Bin do?
 

@@ -8,7 +8,7 @@
     "static": false
   },
   "store": {
-    "adapter": "sqlite",
+    "adapter": "mysql",
     "sqlite": {
       "location": "/tmp/jsbin.db"
     },

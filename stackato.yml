@@ -5,5 +5,8 @@ framework:
 
 memory: 128MB
 
+services:
+  bindata: mysql
+
 processes:
   web: $HOME/bin/jsbin
